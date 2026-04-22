@@ -79,3 +79,18 @@ ul li{
 .section{
   padding: 2rem;
 }
+
+.btn-whatsapp{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #00ff48;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-whatsapp:hover {
+  background-color: #00cc39;
+  transform: scale(1.05);
+}
